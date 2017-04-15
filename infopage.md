@@ -1,5 +1,5 @@
 ---
 title: infopage
 layout: template
-filename: infopage
+filename: /infopage
 --- 
