@@ -1,6 +1,6 @@
 ---
 layout: template
 title: Home
-filename: .
+filename: 
 ---
 This is the page for ComputerMusic.
