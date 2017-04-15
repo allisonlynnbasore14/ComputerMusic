@@ -1,12 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome Computer Music
 
-You can use the [editor on GitHub](https://github.com/allisonlynnbasore14/ComputerMusic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This webpage give information about the final project for the computer generation software design team at Olin College of Engineering.
 
 ```markdown
 Syntax highlighted code block
