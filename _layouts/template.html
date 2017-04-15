@@ -31,7 +31,7 @@
           
           <a href="https://github.com/allisonlynnbasore14/ComputerMusic" class="code">View Welcome to Computer Music! on GitHub</a>
           {% for page in site.pages %}
-           <a href={{ page.filename }}>{{ page.title }}</a>
+           <a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a>
           {% endfor %}
           </div>
         <span class="blc"></span><span class="trc"></span>
