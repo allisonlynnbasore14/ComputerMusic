@@ -30,7 +30,10 @@
         <div class="inner">
           
           <a href="https://github.com/allisonlynnbasore14/ComputerMusic" class="code">View Welcome to Computer Music! on GitHub</a>
-        </div>
+          {% for page in site.pages %}
+           <a href={{ page.filename }}>{{ page.title }}</a>
+          {% endfor %}
+          </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
