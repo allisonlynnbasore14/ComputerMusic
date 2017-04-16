@@ -1,6 +1,6 @@
 ---
-title: infopage
+title: The Program
 layout: template
-filename: /infopage
+filename: /program
 --- 
 This is the info page. 
