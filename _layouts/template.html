@@ -23,11 +23,11 @@
     <header>
       <h1 class="title">Welcome to Computer Music!</h1>
     </header>
-    <div id="container">
-      
-          {% for page in site.pages %}
+        {% for page in site.pages %}
            <a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a>
           {% endfor %}
+    <div id="container">
+     
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
