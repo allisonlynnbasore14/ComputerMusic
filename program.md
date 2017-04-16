@@ -16,3 +16,7 @@ $ sudo apt-get install sonic-pi
 ```
 
 ![Image of Sonic Pi Logo](http://sonic-pi.net/images/logo.png)
+
+Then by running the script "WebMusicApp.py," a link will appear in the terminal that will lead you to the user interface for music generation. From there, you simply pick a song from the drop down list and hit play. If you have Sonic Pi open, the song will play immediately. 
+
+### How does it work?
