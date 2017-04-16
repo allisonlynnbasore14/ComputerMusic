@@ -24,7 +24,7 @@
       <h1 class="title">Welcome to Computer Music!</h1>
     </header>
         {% for page in site.pages %}
-        <a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a>
+    <h3><a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a></h3>
         {% endfor %}
     <div id="container">
      
