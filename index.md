@@ -12,3 +12,11 @@ Over the past few weeks, a few software design students teamed up to generate mu
 
 Some members of our team have had extensive musical experience. The remaining members were curious about music theory. Our mixed backgrounds gave us insight to make a webapp that people without musical experience could use and understand. Our goal was to implement an algorithm that take a song, analyses it, and produces a new melody that sounds just as good. This leads to the question of, well what sounds ‘good.’ This is where music theory come into play. 
 Please investigate the rest of this site to see the ins and outs of our program.
+
+<h> Authors and Contributors </h>
+
+Hannah Kolano
+Meaghen Sausville
+Tatiana Anthony
+Illya Besancon
+Allison Basore
