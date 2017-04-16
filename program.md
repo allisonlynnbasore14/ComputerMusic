@@ -28,6 +28,8 @@ Below is a diagram of the basic structure of our program.
 
 ![Image of Program Diagram](raw.github.com/allisonlynnbasore14/ComputerMusic/pictures/Screenshot from 2017-04-16 08-34-00.png ?raw=true)
 
+![Image of Program Diagram](/ComputerMusic/pictures/Screenshot from 2017-04-16 08-34-00.png ?raw=true)
+
  
 ### MIDI Files:
 
