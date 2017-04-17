@@ -25,7 +25,7 @@ filename: /results
 #### Here is an up close look at the options for choosing a song. We ended up with 5 song options.
 
 
-![Image of Second User Interface](/ComputerMusic/pictures/File_000.jpeg ?raw=true)
+![Zoomed Image of User Interface](/ComputerMusic/pictures/File_000.jpeg?raw=true)
 
 
 #### Origially, the plan was to use a Graphical User Interface (GUI). However, since a web app was more asstetically appealing we decided to transiton. Below is a picture of the GUI.
