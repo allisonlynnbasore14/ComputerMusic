@@ -40,6 +40,8 @@ Below is a diagram of the basic structure of our program.
 
 ![Image of Program Diagram](raw.github.com/allisonlynnbasore14/repo/master/picturesScreenshot from 2017-04-16 08-34-00.png?raw=true)
  
+ *****
+ 
 ### MIDI Files:
 
 A MIDI file is essentially a set of instructions to piece together a song. It has signals of “Note on” and “Note off” as well as volume for the series of notes that make up a song. It then requires an application, like Sonic Pi, to interpret that message and play the correct melody. MDI files are useful, not just for computer manipulation, but also for situations with limited storage space. A MIDI file is much small than an MP3 file.
