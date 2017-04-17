@@ -22,10 +22,11 @@
   <div class="wrapper">
     <header>
       <h1 class="title">Welcome to Computer Music!</h1>
-    </header><p align="center">
+    </header>
         {% for page in site.pages %}
-    <h3><a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a></h3>
-    {% endfor %}<p/>
+    <p align="center"><h3><a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a></h3><p/>
+    {% endfor %}
+    
     <div id="container">
      
       <div id="main" role="main">
