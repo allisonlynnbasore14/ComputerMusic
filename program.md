@@ -34,6 +34,7 @@ Below is a diagram of the basic structure of our program.
  A major compoent of the program are the class definitions. Below is a piece of the program code that shows the two classes.
    
 ![Image of Program Diagram](/ComputerMusic/pictures/Classes.png?raw=true)
+
  *****
 
 ### MIDI Files
