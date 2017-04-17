@@ -17,8 +17,8 @@ Please investigate the rest of this site to see the ins and outs of our program.
 
 ### Authors and Contributors:
 
-####                                                               _Hannah Kolano_
-####                                                             _Meaghen Sausville_
-####                                                              _Tatiana Anthony_
-####                                                               _Illya Besancon_
-####                                                               _Allison Basore_
+#### _                                                               Hannah Kolano_
+#### _                                                             Meaghen Sausville_
+#### _                                                              Tatiana Anthony_
+#### _                                                               Illya Besancon_
+#### _                                                               Allison Basore_
