@@ -31,6 +31,6 @@ filename: /results
 #### Origially, the plan was to use a Graphical User Interface (GUI). However, since a web app was more asstetically appealing we decided to transiton. Below is a picture of the GUI.
 
 
-
+![GUI Draft](/ComputerMusic/pictures/GUIDRAFT.png?raw=true)
 
 
