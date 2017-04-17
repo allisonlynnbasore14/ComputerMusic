@@ -40,6 +40,11 @@ Below is a diagram of the basic structure of our program.
 
 ![Image of Program Diagram](raw.github.com/allisonlynnbasore14/repo/master/picturesScreenshot from 2017-04-16 08-34-00.png?raw=true)
  
+ ![Image of Program Diagram](/ComputerMusic/Screenshot from 2017-04-16 08-34-00.png?raw=true)
+ 
+ ![Image of Program Diagram](raw.github.com/allisonlynnbasore14/repo/masterScreenshot from 2017-04-16 08-34-00.png?raw=true)
+ 
+ 
  *****
  
 ### MIDI Files:
