@@ -17,8 +17,12 @@ Next, in order to make some music you need an instrument. For python, that instr
 ### Authors and Contributors:
 
 _Hannah Kolano_
+
 _Meaghen Sausville_
+
 _Tatiana Anthony_
+
 _Illya Besancon_
+
 _Allison Basore_
 
