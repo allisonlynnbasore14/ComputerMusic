@@ -17,9 +17,9 @@ Please investigate the rest of this site to see the ins and outs of our program.
 
 Here is a diagram of what why we decided to create computational music.
 
-![Image of Program Diagram](/ComputerMusic/Whywedowhatwedo.png?raw=true)
+![Diagram of Motivation](/ComputerMusic/Whywedowhatwedo.png?raw=true)
 
 *****
 
-![Image of Program Diagram](/ComputerMusic/Authors.png?raw=true)
+![Authors](/ComputerMusic/Authors.png?raw=true)
 
