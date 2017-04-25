@@ -6,7 +6,9 @@ filename: /program
 ### How to get started:
 
 
-First, to make computer generated music, you need to fork and clone the GITHUB respitory.
+First, to make computer generated music, you need to fork and clone the GITHUB respitory at the following link:
+
+[link to Repo](https://github.com/msausville/Computer-Generated-Music)
 
 Next, in order to make some music you need an instrument. For python, that instrument is Sonic Pi. This application is made to translate python code into musical notes. To download Sonic Pi, navigate to the below link and download the app or type the following into the command terminal. 
 
