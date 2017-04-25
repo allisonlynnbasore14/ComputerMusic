@@ -47,4 +47,4 @@ Markov Chain is a process of analyzing a current state to find patterns that can
 ### Sonic Pi:
 Sonic Pi is an open source app designed for aiding in beginners projects in Python. It has many features, such as setting the instrument to play the notes with. This program allows us to play our new song directly from python.
 
-![Image of Program Diagram](/ComputerMusic/HowSonicPiWorks.png?raw=true)
+![Diagram about Sonic Pi](/ComputerMusic/HowSonicPiWorks.png?raw=true)
