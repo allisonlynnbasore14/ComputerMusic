@@ -21,10 +21,5 @@ Here is a diagram of what why we decided to create computational music.
 
 *****
 
-### Authors and Contributors:
+![Image of Program Diagram](/ComputerMusic/Authors.png?raw=true)
 
-#### _Hannah Kolano_
-#### _Meaghen Sausville_
-#### _Tatiana Anthony_
-#### _Illya Besancon_
-#### _Allison Basore_
