@@ -5,7 +5,20 @@ filename: /results
 --- 
 ### Results:
 
-#### Below is a picture of the user interface. The click down box allows users to choose a song of thier likeing.
+#### Below is a picture of the final User Interface.
+
+
+## Page 1
+![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+
+# Page 2
+![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+
+
+
+#### Below is a picture of the second user interface. The click down box allows users to choose a song of thier likeing.
 
 
 
@@ -14,7 +27,7 @@ filename: /results
 
 
 
-#### Below is a picture of the second user interface page that appears after you choose a song. Depending on the song, diffrent images will appear with a picture of the band.
+#### Below is a picture of the third user interface page that appears after you choose a song. Depending on the song, diffrent images will appear with a picture of the band.
 
 
 
