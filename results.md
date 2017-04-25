@@ -9,12 +9,13 @@ filename: /results
 
 
 ## Page 1
-![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
-![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png?raw=true)
+
+![Image of Second User Interface](/ComputerMusic/NewScreen2.png?raw=true)
 
 # Page 2
-![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
-![Image of Second User Interface](/ComputerMusic/NewScreenPart1.png ?raw=true)
+![Image of Second User Interface](/ComputerMusic/Page2Screen2.png?raw=true)
+![Image of Second User Interface](/ComputerMusic/Screen2Page22.png?raw=true)
 
 
 
