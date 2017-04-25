@@ -25,7 +25,7 @@ Then by running the script "WebMusicApp.py," a link will appear in the terminal 
 
 Here is a general diagram of the architecture of our program. 
 
-![Image of Program Diagram](/ComputerMusic/pictures/Classes.png?raw=true)
+![Image of Program Diagram](/ComputerMusic/Overview.png?raw=true)
 
 Below is a more specific diagram of the basic structure of our program.
  
