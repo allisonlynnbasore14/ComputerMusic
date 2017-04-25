@@ -15,7 +15,7 @@ Please investigate the rest of this site to see the ins and outs of our program.
 
 ### Why Music?
 
-Here is a diagram of what why we choose the computational music.
+Here is a diagram of what why we decided to create computational music.
 
 ![Image of Program Diagram](/ComputerMusic/Whywedowhatwedo.png?raw=true)
 
