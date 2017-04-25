@@ -17,7 +17,7 @@ Please investigate the rest of this site to see the ins and outs of our program.
 
 Here is a diagram of what why we choose the computational music.
 
-![Image of Program Diagram](/ComputerMusic/Overview.png?raw=true)
+![Image of Program Diagram](/ComputerMusic/Whywedowhatwedo.png?raw=true)
 
 *****
 
