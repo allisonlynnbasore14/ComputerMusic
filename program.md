@@ -45,4 +45,6 @@ A MIDI file is essentially a set of instructions to piece together a song. It ha
 Markov Chain is a process of analyzing a current state to find patterns that can be a template for other states. For example, the individual pedals of a flower are not identical, yet they all follow a similar shape, color, and size. Essentially, Markov chain counts each time an object ( a note in our case) is next to a different note for all combinations of notes. It then uses the most prominent patterns to create a new set of objects. In this way, we eliminated any outliers notes and focused on the core, repeating melody. Markov chain analysis has been applied to numerous files such as word analysis in literature and population statistics.
 
 ### Sonic Pi:
-Sonic Pi is an open source app designed for aiding in beginners projects in Python. It has many features, such as setting the instrument to play the notes with. This program allows us to play our new song directly from python. 
+Sonic Pi is an open source app designed for aiding in beginners projects in Python. It has many features, such as setting the instrument to play the notes with. This program allows us to play our new song directly from python.
+
+![Image of Program Diagram](/ComputerMusic/pictures/Classes.png?raw=true)
