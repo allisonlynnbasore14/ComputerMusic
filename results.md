@@ -51,6 +51,8 @@ filename: /results
 
 Over the course of this project, we encountered a few issues that we had to work through. The application Sonic Pi was initially difficult to download and start for the whole project team It turns out that when Sonic Pi is running on a device, the device’s audience system is “taken over” in that nothing else can be playing in order for Sonic Pi to work.
 
-We also had some difficulty in arranging the output of our algorithm to output two notes at once. We were not sure if Sonic Pi was able to play two notes at once. To make music sounding more like produced music, we needed to have two notes playing. 
+We also had some difficulty in arranging the output of our algorithm to output two notes at once. We were not sure if Sonic Pi was able to play two notes at once. To make music sounding more like produced music, we needed to have two notes playing.
+
+Another roadblock we encountered was reading the MIDI files and converting them into a uniform arrangement. Of the MIDI files we wanted to use, some of them used volume control to turn off notes rather than the “Note On” or “Note Off” message. On those particular files, essentially all the notes were playing at the same time, only most of them had a volume of zero. We identified a couple solutions to this problem. We could either import a file, code a function that would identify if the file uses volume control to turn notes on and off, and then add the proper on/off messages. Another solution would be to have our program identify if the file uses volume control and to direct that file to a different function from the other files that would accommodate the zero volume.
 
 
