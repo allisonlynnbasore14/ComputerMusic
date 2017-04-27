@@ -35,9 +35,6 @@ Here is a general diagram of the architecture of our program.
 ![Image of Program Diagram](/ComputerMusic/Overview.png?raw=true)
 
 Below is a more specific diagram of the basic structure of our program.
- 
- 
- ![Image of Program Diagram](/ComputerMusic/Screenshot from 2017-04-16 08-34-00.png?raw=true)
    
  
  
