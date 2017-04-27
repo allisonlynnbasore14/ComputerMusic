@@ -20,6 +20,7 @@ Here is a diagram of what why we decided to create computational music.
 ![Diagram of Motivation](/ComputerMusic/Whywedowhatwedo.png?raw=true)
 
 *****
+![Heading](/ComputerMusic/head.png?raw=true)
 
 ![Authors1](/ComputerMusic/Conti1.png?raw=true)
 
