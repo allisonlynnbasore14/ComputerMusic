@@ -49,6 +49,8 @@ filename: /results
 
 ### RoadBlocks
 
+Over the course of this project, we encountered a few issues that we had to work through. The application Sonic Pi was initially difficult to download and start for the whole project team It turns out that when Sonic Pi is running on a device, the device’s audience system is “taken over” in that nothing else can be playing in order for Sonic Pi to work.
 
+We also had some difficulty in arranging the output of our algorithm to output two notes at once. We were not sure if Sonic Pi was able to play two notes at once. To make music sounding more like produced music, we needed to have two notes playing. 
 
 
