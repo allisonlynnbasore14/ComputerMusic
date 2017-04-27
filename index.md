@@ -21,5 +21,7 @@ Here is a diagram of what why we decided to create computational music.
 
 *****
 
-![Authors](/ComputerMusic/Authors.png?raw=true)
+![Authors1](/ComputerMusic/cont1.png?raw=true)
+
+![Authors2](/ComputerMusic/cont2.png?raw=true)
 
