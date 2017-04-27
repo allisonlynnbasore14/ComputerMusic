@@ -38,10 +38,8 @@ Below is a more specific diagram of the basic structure of our program.
    
  
  
- A major compoent of the program are the class definitions. Below is a piece of the program code that shows the two classes. These class definitions set up a framework for note and song objects that we created. This allowed us to keep these type of objects consistent. Each song object has a list of notes intervals to play the notes in. The note class specifies that every note has a tone, a duration, and a volume.
+ A major compoent of the program are the class definitions. These class definitions set up a framework for note and song objects that we created. This allowed us to keep these type of objects consistent. Each song object has a list of notes intervals to play the notes in. The note class specifies that every note has a tone, a duration, and a volume.
    
-![Image of Program Diagram](/ComputerMusic/pictures/Classes.png?raw=true)
-
  *****
 
 ### MIDI Files
