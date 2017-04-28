@@ -5,7 +5,11 @@ filename: /results
 --- 
 ### Results:
 
-#### Below is a picture of the final User Interface.
+### Graphical User Interface
+
+#### The user interface progressed over the course of our project. This advancement exemplifies the progress of the music we created. It started out as a bare minimum, but was eventually morphed into something beautiful. Below is a picture of the final User Interface, the previous user interfaces are shown below that picture.
+
+#### Here, users are able to use the click down to find a song they want to base their new song on. The user should then hit play to hear thier new song play through Sonic Pi.
 
 
 ## Page 1
@@ -42,7 +46,7 @@ filename: /results
 ![Zoomed Image of User Interface](/ComputerMusic/pictures/File_000.jpeg?raw=true)
 
 
-#### Origially, the plan was to use a Graphical User Interface (GUI). However, since a web app was more asstetically appealing we decided to transiton. Below is a picture of the GUI.
+#### Origially, the plan was to use this graphical user interface using Tkinter, which is a simple graphical user interfacae package. However, since a web app was more asstetically appealing we decided to transiton. Below is a picture of the GUI.
 
 
 ![GUI Draft](/ComputerMusic/pictures/GUIDRAFT.png?raw=true)
