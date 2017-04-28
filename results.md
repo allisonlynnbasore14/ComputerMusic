@@ -5,11 +5,14 @@ filename: /results
 --- 
 ### Results:
 
-### Graphical User Interface
+Overall, our finished product was a web app that allows to user to chose a song to make a new song using Markov Chain analysis and music theory. Please see the video below for a demonstration.
 
-#### The user interface progressed over the course of our project. This advancement exemplifies the progress of the music we created. It started out as a bare minimum, but was eventually morphed into something beautiful. Below is a picture of the final User Interface, the previous user interfaces are shown below that picture.
 
-#### Here, users are able to use the click down to find a song they want to base their new song on. The user should then hit play to hear thier new song play through Sonic Pi.
+### The Graphical User Interface Evolution
+
+The user interface progressed over the course of our project. This advancement exemplifies the progress of the music we created. It started out as a bare minimum, but was eventually morphed into something beautiful. Below is a picture of the final User Interface, the previous user interfaces are shown below that picture.
+
+Here, users are able to use the click down to find a song they want to base their new song on. The user should then hit play to hear thier new song play through Sonic Pi.
 
 
 ## Page 1
