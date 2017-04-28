@@ -7,7 +7,7 @@ filename: /
 
 During the spring of 2017, a few software design students teamed up to generate music on the computer. The program uses Markov analysis of musical notes to suggest various new patterns of notes and therefore making new music! In addition to using Markov analysis, we also implemented a few additional pattern identifiers in order to produce smooth sounding music using techniques in music theory. The program lets a user choose from a variety of songs to base their new music creation off of.
 
-### Our Goals
+### Our Goals:
 
 Our minimal viable product for this project was a fifteen second tune generated from the command line that isn’t necessarily congruent. Intermediate goals included harmony generation, using multiple instruments, creating a full three minute song, having a web user interface, and having multiple song genres.  Our stretch goal was be to implement Music Theory to produce a professional sounding song and to add lyrics.  We reached a majority of our goals. We chose to not pursue adding lyrics and instead to focus on applying music theory.
 
