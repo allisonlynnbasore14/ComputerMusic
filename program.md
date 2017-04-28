@@ -36,11 +36,40 @@ Here is a general diagram of the architecture of our program.
 
 Below is a more specific diagram of the basic structure of our program.
    
- 
- 
+
  A major compoent of the program are the class definitions. These class definitions set up a framework for note and song objects that we created. This allowed us to keep these type of objects consistent. Each song object has a list of notes intervals to play the notes in. The note class specifies that every note has a tone, a duration, and a volume.
    
  *****
+## Program Architecture 
+
+Below is a further description of how our program makes a song, from the user input to the creation of a new melody. 
+
+### User Chooses a song:
+
+To begin making music, a user will chose a song the user interface. This interface is a web app that is complied by a web browser on by the users own computer once they run the program. We used Flask to power the program to make a web app. Flask is framework specifically made for powering web application with python. The reason we chose Flask as opposed to other similar frameworks like Django or Pyramid, was for Flack’s simplicity. Since we were generally beginners in making web applications, we decided a simple framework would fit our needs best. Using CSS (Cascade Style Sheets), we styled a simple interface form where the user can pick a song and launch program that makes a new song.
+
+### Import MIDI files:
+
+In order to use the MIDI files, we needed to extract certain information. First we found the number of ticks per beat, which is the units for the change in time between beats. Essentially, ticks represent how many time units to wait for each note to play. Next, we extract the beats per minute, the tempo, key, and the specific notes of the song that makes up the melody. 
+
+### Organize file data:
+
+Next, we organized the data form the MIDI files by making classes of objects. Each file makes a song class that is made up of notes that are in a note class.  In order to be considered a song, the object must have a list of notes, a list of durations, and a list of intervals. To be a note, an object must have a tone, a duration, and volume. All of these properties are important for the objects in order to perform Markov Chain analysis.
+
+### Make Markov dictionary of song notes: 
+
+This process prepared our program to perform Markov Chain analysis on the song. Markov Chain analysis is essentially observing the patterns in a series of objects. In our case, the Markov Chain algorithm counts how many times certain objects are found together. For example, if a C# note often follows a D# in the input song, the output song would be more likely to have a C# following a D#. This algorithm is made with weights applied to each pattern and then randomly selected to make a new song. The more times a pattern shows up, the more likely that it will be in the new song. Our program performs this analysis on the duration, note sequence, and intervals of each input song.
+
+### Music theory analysis:
+
+In addition to Markov analysis, we wanted to include a way to make the semi-randomly generated music more harmonious. Music theory is the study of the practices of composers to make music audibly attractive. Certain songs are catcher than other songs and music theory is the study of that phenomenon. We choose to apply some of the ideas of music theory into our algorithm in the form of making a bassline riff. A riff is essentially, a melody or rhythm that is repeated in a song. A bassline is the rhymic part of a song that is often played in a low pitch. There are four options for a base in our program. Two of them are based on traditional pop songs and the second two are the inverses of the first two. This additon is made to match the current use of the Markov Chain output.
+
+Lastly, the information from the music theory analysis is made into a form that the Sonic Pi application understands and the song begins to play. 
+ 
+***** 
+## Parts of the Program
+
+Below is a further description of all the elements to our program.
 
 ### MIDI Files
 
