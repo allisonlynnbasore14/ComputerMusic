@@ -10,7 +10,7 @@ filename: /program
 First, to make computer generated music, you need to fork and clone the GITHUB repository with the program files.
 To fork and clone the GITHUB repository, follow the following instructions: 
 
- Notice---The repository that this website is attached to is not the complete repository. Due to large music files, a GITHUB website could not be made.--
+ Notice---The repository that this website is attached to is not the complete repository. Due to large music files, a GITHUB website could not be made. Instead, this website was made from a semi-complete repository. The link below will direct you to the real repository--
  
  1) Click on the following link:
 
