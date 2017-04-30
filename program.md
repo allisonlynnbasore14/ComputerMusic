@@ -6,9 +6,42 @@ filename: /program
 ### How to get started:
 
 
-First, to make computer generated music, you need to fork and clone the GITHUB respitory at the following link:
+
+First, to make computer generated music, you need to fork and clone the GITHUB repository with the program files.
+To fork and clone the GITHUB repository, follow the following instructions: 
+
+ Notice---The repository that this website is attached to is not the complete repository. Due to large music files, a GITHUB website could not be made.--
+ 
+ 1) Click on the following link:
 
 [Link to Repo](https://github.com/msausville/Computer-Generated-Music)
+
+2) Click “Fork” in the top right hand corner.
+3) Copy the link the follows the HTTPS: form field.
+4) Go to your command terminal and move to the directory you want to clone the files into.
+5) Paste the following in the terminal, replacing the current https with the one you copied from the git website.
+
+Now, you just need to install a few dependencies to run the programs.
+
+If you do not currently have python3 install put the following into your termianl:
+
+```
+$ sudo apt-get install -y python3 python3-pip python3-tk python3-dev
+
+```
+
+Install the following, by pasting them into your command terminal:
+
+ at the following link:
+
+
+
+```
+$ pip3 install --upgrade pip
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install -y python python-pip python-tk python-dev git build-essential
+```
 
 Next, in order to make some music you need an instrument. For python, that instrument is Sonic Pi. This application is made to translate python code into musical notes. To download Sonic Pi, navigate to the below link and download the app or type the following into the command terminal. 
 
@@ -26,7 +59,11 @@ Then run the following in the terminal:
 ```
 $ pyton3 WebMusicApp.py
 ```
-After doing this a link will appear in the terminal that will lead you to the user interface for music generation. From there, you simply pick a song from the drop down list and hit play. If you have Sonic Pi open, the song will play immediately. 
+After doing this a link will appear in the terminal that will lead you to the user interface for music generation. The link will look something like this:
+```
+* Running on http://127..../
+```
+From there, you simply pick a song from the drop down list and hit play. If you have Sonic Pi open, the song will play immediately. 
 
 ### How it works:
 
