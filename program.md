@@ -41,6 +41,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install -y python python-pip python-tk python-dev git build-essential
 $ pip install mido
+$ pip install Flask
 ```
 
 Next, in order to make some music you need an instrument. For python, that instrument is Sonic Pi. This application is made to translate python code into musical notes. To download Sonic Pi, navigate to the below link and download the app or type the following into the command terminal. 
