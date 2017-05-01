@@ -27,7 +27,6 @@ If you do not currently have python3 install put the following into your termian
 
 ```
 $ sudo apt-get install -y python3 python3-pip python3-tk python3-dev
-
 ```
 
 Install the following, by pasting them into your command terminal:
@@ -41,6 +40,7 @@ $ pip3 install --upgrade pip
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install -y python python-pip python-tk python-dev git build-essential
+$ pip install mido
 ```
 
 Next, in order to make some music you need an instrument. For python, that instrument is Sonic Pi. This application is made to translate python code into musical notes. To download Sonic Pi, navigate to the below link and download the app or type the following into the command terminal. 
