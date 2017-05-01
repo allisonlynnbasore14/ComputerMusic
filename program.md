@@ -48,7 +48,7 @@ Next, in order to make some music you need an instrument. For python, that instr
 
 ```
 $ sudo add-apt-repository ppa:sonic-pi/ppa
-$ sudo apt-get update
+$ pip install python-sonic
 $ sudo apt-get install sonic-pi
 ```
 
