@@ -24,7 +24,7 @@
       <h1 class="title">Welcome to PyTunes!</h1>
     </header>
         {% for page in site.pages %}
-    <p align="center"><h3><a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a></h3><p/>
+    <p><h3><a href={{ page.filename | prepend:site.baseurl }}>{{ page.title }}</a></h3><p/>
     {% endfor %}
     
     <div id="container">
@@ -37,7 +37,7 @@
           </div>
         <span align="center" class="blc"></span><span align="center" class="trc"></span>
         </div>
-        <article align="center" class="markdown-body">
+        <article class="markdown-body">
           
           {{ content }}
 
